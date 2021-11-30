@@ -1,0 +1,135 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color: #333;
+    background-color: #fff;
+}
+
+.ccenter{
+    text-align:center;
+    
+}
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+
+html {
+    height: 100%;
+    min-height: 100%;
+    padding-bottom: 1px;
+}
+
+
+
+
+.fig2 a {
+    color: firebrick;
+}
+
+figure {
+    position: relative;
+    width: 500px;
+    margin: 2em auto 8em;
+    display: block;
+}
+
+figcaption {
+    position: absolute;
+    z-index: 1;
+    color: #111;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.fig1 figcaption {
+    overflow: hidden;
+}
+
+
+
+.fig1 figcaption:before {
+    clip: rect(310px,495px,396px,5px);
+}
+
+.fig2 figcaption:before {
+    clip: rect(5px,495px,396px,5px);
+    -webkit-filter: blur(5px);
+    filter: url("#blurEffect");
+}
+
+
+
+.fig1 pre {
+    margin-top: 78%;
+    color: #eee;
+}
+
+.fig2 pre {
+    margin-top: 60%;
+    color: #111;
+}
+
+img {
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+
+.fig1 .is-picture-hovered:before,
+.fig1 figcaption:hover:before {
+    -webkit-filter: blur(5px);
+    filter: url("#blurEffect");
+}
+
+.fig2 .is-picture-hovered:before,
+.fig2 figcaption:hover:before {
+    -webkit-filter: blur(0);
+}
+
+.fig1 .is-picture-hovered pre,
+.fig1 figcaption:hover pre {
+    margin-top: 60%;
+    color: #111;
+}
+
+.fig2 .is-picture-hovered pre,
+.fig2 figcaption:hover pre {
+    margin-top: 78%;
+    color: #eee;
+}
+
+.fig1 .is-picture-hovered pre a,
+.fig1 figcaption:hover pre a {
+    color: firebrick;
+}
+
+.fig2 .is-picture-hovered pre a,
+.fig2 figcaption:hover pre a {
+    color: gold;
+}

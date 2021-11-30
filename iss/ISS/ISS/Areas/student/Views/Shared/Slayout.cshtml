@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    @using Microsoft.AspNet.Identity
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/bundles/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   
+</head>
+<body>
+    <!--navbar-->
+    <div class="navbar navbar-inverse navbar-fixed-top ">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("ISS", "Index", "student", new { area = "student" }, new { @class = "navbar-brand" })
+            </div>
+
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("student", "Index", "student", new { area = "student" }, null)</li>
+                    <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, null)</li>
+
+                </ul>
+                <!--navbar right-->
+                <ul class="nav navbar-nav navbar-right">
+                    @Html.Partial("_LoginPartial")
+                    <!--language-->
+                    <li class="dropdown nav navbar-nav">
+                        <a class="dropdown-toggle" data-toggle="dropdown">
+                            <span class="fa fa-language"> </span>
+                        </a>
+                        <ul class="dropdown-menu ">
+                            <li><a href="#"><img src="~/Content/img/flag-english.png" width="30" height="30" />English </a></li>
+                            <li><a href="#"><img src="~/Content/img/flag-turkish.png" width="30" height="30" />Turkish </a></li>
+                            <li><a href="#"><img src="~/Content/img/flag-arabic.png" width="30" height="30" /> Arabic  </a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!--sideNavbar-->
+    <div class="container-fluid side-menu-container" style="padding-left:0px;padding-bottom:0px;">
+        <div class="col-md-3 hidden-xs side-menu">
+            <div class="row side-menu-container">
+                <div class="person " style="padding-top:20px; ">
+                    <img src="~/Content/img/canta.jpg" class="img-responsive" />
+                    <div class="person-content">
+                       
+                        <h3>
+                    
+                       @Html.ActionLink(User.Identity.GetUserName(), null, routeValues: null, htmlAttributes: null)
+
+                        </h3>
+
+                        <h4 class="role">The Mastermind</h4>
+                    </div>
+                </div>
+                <ul class="nav nav-pills  nav-tabs nav-stacked ">
+
+                    <!--Courses-->
+                    <li class="panel panel-default" id="dropdown">
+                        <a data-toggle="collapse" href="#dropdown-Course">
+                            <span class="glyphicon glyphicon-book"></span> Courses<span class="caret"></span>
+                        </a>
+
+                        <div id="dropdown-Course" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <ul class="nav navbar-nav">
+                                  
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!--quizs-->
+                    <li class="panel panel-default" id="dropdown">
+                        <a data-toggle="collapse" href="#dropdown-quiz">
+                            <span class="glyphicon glyphicon-ok"></span> Quizs<span class="caret"></span>
+                        </a>
+                        <div id="dropdown-quiz" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <ul class="nav navbar-nav">
+                                   
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="col-md-9">
+            @RenderBody()
+            <!--footer-->
+            <div>
+                <hr />
+                <footer>
+                    <p>&copy; @DateTime.Now.Year - ISS | INTERNET STUDENT'S SYSTEM</p>
+                </footer>
+                <hr />
+            </div>
+        </div>
+
+    </div>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")    
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,75 @@
+﻿@model IEnumerable<ISS.Models.Data.Courses_Program>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+
+    <tr>
+        <th>
+            Program Type
+        </th>
+        <th>
+            Day
+        </th>
+        <th>
+            Courses Names
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.start_time)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.finish_time)
+        </th>
+        <th>
+            Options
+        </th>
+    </tr>
+
+    @foreach (var progzaman in Model.GroupBy(x => x.day_ID ))
+    {
+    
+            foreach (var item in progzaman.Take(1))
+            {
+
+           <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DevamZamani.Name)
+            </td>
+            <td>
+                @item.Day.day1
+            </td>
+
+            <td>
+                @foreach (var course in Model.Where(x => x.day_ID == item.day_ID))
+                {
+                    <span>
+                        @course.Current_courses.Course.type.name ,
+                    </span>
+                }
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.start_time)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.finish_time)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.program_ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.program_ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.program_ID })
+            </td>
+        </tr>
+            }
+
+    }
+
+</table>

@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="issDBModelStoreContainer" CdmEntityContainer="issDBEntities">
+    <EntitySetMapping Name="Admins">
+      <EntityTypeMapping TypeName="issDBModel.Admin">
+        <MappingFragment StoreEntitySet="Admin">
+          <ScalarProperty Name="admin_ID" ColumnName="admin_ID" />
+          <ScalarProperty Name="admin_firstname" ColumnName="admin_firstname" />
+          <ScalarProperty Name="admin_surname" ColumnName="admin_surname" />
+          <ScalarProperty Name="phone_number" ColumnName="phone_number" />
+          <ScalarProperty Name="admin_email" ColumnName="admin_email" />
+          <ScalarProperty Name="admin_password" ColumnName="admin_password" />
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="last_opened" ColumnName="last_opened" />
+          <ScalarProperty Name="picture_ID" ColumnName="picture_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Adresses">
+      <EntityTypeMapping TypeName="issDBModel.Adress">
+        <MappingFragment StoreEntitySet="Adress">
+          <ScalarProperty Name="adress_id" ColumnName="adress_id" />
+          <ScalarProperty Name="country" ColumnName="country" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="neighborhood" ColumnName="neighborhood" />
+          <ScalarProperty Name="detailes" ColumnName="detailes" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Announcements">
+      <EntityTypeMapping TypeName="issDBModel.Announcement">
+        <MappingFragment StoreEntitySet="Announcement">
+          <ScalarProperty Name="announcement_ID" ColumnName="announcement_ID" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="current_coures_ID" ColumnName="current_coures_ID" />
+          <ScalarProperty Name="teacher_ID" ColumnName="teacher_ID" />
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="create_time" ColumnName="create_time" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="answares">
+      <EntityTypeMapping TypeName="issDBModel.answare">
+        <MappingFragment StoreEntitySet="answares">
+          <ScalarProperty Name="answareID" ColumnName="answareID" />
+          <ScalarProperty Name="iscorrect" ColumnName="iscorrect" />
+          <ScalarProperty Name="text" ColumnName="text" />
+          <ScalarProperty Name="answare_number" ColumnName="answare_number" />
+          <ScalarProperty Name="questionID" ColumnName="questionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetRoles">
+      <EntityTypeMapping TypeName="issDBModel.AspNetRole">
+        <MappingFragment StoreEntitySet="AspNetRoles">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetUserClaims">
+      <EntityTypeMapping TypeName="issDBModel.AspNetUserClaim">
+        <MappingFragment StoreEntitySet="AspNetUserClaims">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="ClaimType" ColumnName="ClaimType" />
+          <ScalarProperty Name="ClaimValue" ColumnName="ClaimValue" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetUserLogins">
+      <EntityTypeMapping TypeName="issDBModel.AspNetUserLogin">
+        <MappingFragment StoreEntitySet="AspNetUserLogins">
+          <ScalarProperty Name="LoginProvider" ColumnName="LoginProvider" />
+          <ScalarProperty Name="ProviderKey" ColumnName="ProviderKey" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetUsers">
+      <EntityTypeMapping TypeName="issDBModel.AspNetUser">
+        <MappingFragment StoreEntitySet="AspNetUsers">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="EmailConfirmed" ColumnName="EmailConfirmed" />
+          <ScalarProperty Name="PasswordHash" ColumnName="PasswordHash" />
+          <ScalarProperty Name="SecurityStamp" ColumnName="SecurityStamp" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="PhoneNumberConfirmed" ColumnName="PhoneNumberConfirmed" />
+          <ScalarProperty Name="TwoFactorEnabled" ColumnName="TwoFactorEnabled" />
+          <ScalarProperty Name="LockoutEndDateUtc" ColumnName="LockoutEndDateUtc" />
+          <ScalarProperty Name="LockoutEnabled" ColumnName="LockoutEnabled" />
+          <ScalarProperty Name="AccessFailedCount" ColumnName="AccessFailedCount" />
+          <ScalarProperty Name="AdressID" ColumnName="AdressID" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="PictureID" ColumnName="PictureID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Coures">
+      <EntityTypeMapping TypeName="issDBModel.Coure">
+        <MappingFragment StoreEntitySet="Coures">
+          <ScalarProperty Name="course_ID" ColumnName="course_ID" />
+          <ScalarProperty Name="type_ID" ColumnName="type_ID" />
+          <ScalarProperty Name="start_date" ColumnName="start_date" />
+          <ScalarProperty Name="finish_date" ColumnName="finish_date" />
+          <ScalarProperty Name="quiz_ID" ColumnName="quiz_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Coures_Program">
+      <EntityTypeMapping TypeName="issDBModel.Coures_Program">
+        <MappingFragment StoreEntitySet="Coures_Program">
+          <ScalarProperty Name="program_ID" ColumnName="program_ID" />
+          <ScalarProperty Name="current_course_ID" ColumnName="current_course_ID" />
+          <ScalarProperty Name="day" ColumnName="day" />
+          <ScalarProperty Name="start_time" ColumnName="start_time" />
+          <ScalarProperty Name="finish_time" ColumnName="finish_time" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Current_coures">
+      <EntityTypeMapping TypeName="issDBModel.Current_coures">
+        <MappingFragment StoreEntitySet="Current_coures">
+          <ScalarProperty Name="current_cousre_ID" ColumnName="current_cousre_ID" />
+          <ScalarProperty Name="course_ID" ColumnName="course_ID" />
+          <ScalarProperty Name="teacher_ID" ColumnName="teacher_ID" />
+          <ScalarProperty Name="classroom_ID" ColumnName="classroom_ID" />
+          <ScalarProperty Name="describe" ColumnName="describe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Days">
+      <EntityTypeMapping TypeName="issDBModel.Day">
+        <MappingFragment StoreEntitySet="Day">
+          <ScalarProperty Name="day_ID" ColumnName="day_ID" />
+          <ScalarProperty Name="day1" ColumnName="day" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pictures">
+      <EntityTypeMapping TypeName="issDBModel.Picture">
+        <MappingFragment StoreEntitySet="Picture">
+          <ScalarProperty Name="picture_ID" ColumnName="picture_ID" />
+          <ScalarProperty Name="picture_path" ColumnName="picture_path" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="questions">
+      <EntityTypeMapping TypeName="issDBModel.question">
+        <MappingFragment StoreEntitySet="questions">
+          <ScalarProperty Name="questionID" ColumnName="questionID" />
+          <ScalarProperty Name="quizID" ColumnName="quizID" />
+          <ScalarProperty Name="question_number" ColumnName="question_number" />
+          <ScalarProperty Name="timestamps" ColumnName="timestamps" />
+          <ScalarProperty Name="describe" ColumnName="describe" />
+          <ScalarProperty Name="imagePath" ColumnName="imagePath" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="quizs">
+      <EntityTypeMapping TypeName="issDBModel.quiz">
+        <MappingFragment StoreEntitySet="quiz">
+          <ScalarProperty Name="quizID" ColumnName="quizID" />
+          <ScalarProperty Name="time" ColumnName="time" />
+          <ScalarProperty Name="created_date" ColumnName="created_date" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="timelimit" ColumnName="timelimit" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="typeID" ColumnName="typeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Registered_course">
+      <EntityTypeMapping TypeName="issDBModel.Registered_course">
+        <MappingFragment StoreEntitySet="Registered_course">
+          <ScalarProperty Name="registered_course_ID" ColumnName="registered_course_ID" />
+          <ScalarProperty Name="currently_courses_ID" ColumnName="currently_courses_ID" />
+          <ScalarProperty Name="C_announcement_ID" ColumnName="[announcement_ID" />
+          <ScalarProperty Name="student_ID" ColumnName="student_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="issDBModel.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="registered_course_ID" ColumnName="registered_course_ID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Teachers">
+      <EntityTypeMapping TypeName="issDBModel.Teacher">
+        <MappingFragment StoreEntitySet="Teacher">
+          <ScalarProperty Name="userID" ColumnName="userID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="types">
+      <EntityTypeMapping TypeName="issDBModel.type">
+        <MappingFragment StoreEntitySet="type">
+          <ScalarProperty Name="typeID" ColumnName="typeID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="dates">
+      <EntityTypeMapping TypeName="issDBModel.date">
+        <MappingFragment StoreEntitySet="date">
+          <ScalarProperty Name="userID" ColumnName="userID" />
+          <ScalarProperty Name="date1" ColumnName="date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="news">
+      <EntityTypeMapping TypeName="issDBModel.news">
+        <MappingFragment StoreEntitySet="news">
+          <ScalarProperty Name="AdminID" ColumnName="AdminID" />
+          <ScalarProperty Name="newsID" ColumnName="newsID" />
+          <ScalarProperty Name="describe" ColumnName="describe" />
+          <ScalarProperty Name="picPath" ColumnName="picPath" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="link1" ColumnName="link1" />
+          <ScalarProperty Name="link2" ColumnName="link2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="AspNetUserRoles" TypeName="issDBModel.AspNetUserRoles" StoreEntitySet="AspNetUserRoles">
+      <EndProperty Name="AspNetRoles">
+        <ScalarProperty Name="Id" ColumnName="RoleId" />
+      </EndProperty>
+      <EndProperty Name="AspNetUsers">
+        <ScalarProperty Name="Id" ColumnName="UserId" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

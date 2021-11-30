@@ -1,0 +1,369 @@
+C:\Users\Asus\Desktop\ISS\ISS\bin\ApplicationInsights.config
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\ISS\ISS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\ISS\ISS\bin\ISS.dll.config
+C:\Users\Asus\Desktop\ISS\ISS\bin\ISS.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\ISS.pdb
+C:\Users\Asus\Desktop\ISS\ISS\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Owin.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\WebGrease.dll
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\ISS\ISS\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Desktop\ISS\ISS\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Desktop\ISS\ISS\obj\Debug\ISS.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\ISS\ISS\obj\Debug\ISS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ISS\ISS\obj\Debug\ISS.dll
+C:\Users\Asus\Desktop\ISS\ISS\obj\Debug\ISS.pdb
+D:\lectures\iss\ISS\ISS\bin\ApplicationInsights.config
+D:\lectures\iss\ISS\ISS\bin\roslyn\csc.exe
+D:\lectures\iss\ISS\ISS\bin\roslyn\csc.exe.config
+D:\lectures\iss\ISS\ISS\bin\roslyn\csc.rsp
+D:\lectures\iss\ISS\ISS\bin\roslyn\csi.exe
+D:\lectures\iss\ISS\ISS\bin\roslyn\csi.exe.config
+D:\lectures\iss\ISS\ISS\bin\roslyn\csi.rsp
+D:\lectures\iss\ISS\ISS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\lectures\iss\ISS\ISS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\lectures\iss\ISS\ISS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.AppContext.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Console.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Diagnostics.Process.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.IO.Compression.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.IO.FileSystem.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.IO.Pipes.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Reflection.Metadata.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Security.AccessControl.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Security.Claims.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Security.Principal.Windows.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Threading.Thread.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.ValueTuple.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Xml.XPath.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\lectures\iss\ISS\ISS\bin\roslyn\vbc.exe
+D:\lectures\iss\ISS\ISS\bin\roslyn\vbc.exe.config
+D:\lectures\iss\ISS\ISS\bin\roslyn\vbc.rsp
+D:\lectures\iss\ISS\ISS\bin\roslyn\VBCSCompiler.exe
+D:\lectures\iss\ISS\ISS\bin\roslyn\VBCSCompiler.exe.config
+D:\lectures\iss\ISS\ISS\bin\ISS.dll.config
+D:\lectures\iss\ISS\ISS\bin\ISS.dll
+D:\lectures\iss\ISS\ISS\bin\ISS.pdb
+D:\lectures\iss\ISS\ISS\bin\Antlr3.Runtime.dll
+D:\lectures\iss\ISS\ISS\bin\EntityFramework.dll
+D:\lectures\iss\ISS\ISS\bin\EntityFramework.SqlServer.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AI.DependencyCollector.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AI.Web.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AI.WindowsServer.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.ApplicationInsights.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.Google.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Web.Infrastructure.dll
+D:\lectures\iss\ISS\ISS\bin\Newtonsoft.Json.dll
+D:\lectures\iss\ISS\ISS\bin\Owin.dll
+D:\lectures\iss\ISS\ISS\bin\System.Web.Helpers.dll
+D:\lectures\iss\ISS\ISS\bin\System.Web.Mvc.dll
+D:\lectures\iss\ISS\ISS\bin\System.Web.Optimization.dll
+D:\lectures\iss\ISS\ISS\bin\System.Web.Razor.dll
+D:\lectures\iss\ISS\ISS\bin\System.Web.WebPages.Deployment.dll
+D:\lectures\iss\ISS\ISS\bin\System.Web.WebPages.dll
+D:\lectures\iss\ISS\ISS\bin\System.Web.WebPages.Razor.dll
+D:\lectures\iss\ISS\ISS\bin\WebGrease.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\lectures\iss\ISS\ISS\bin\System.Web.Helpers.xml
+D:\lectures\iss\ISS\ISS\bin\System.Web.Mvc.xml
+D:\lectures\iss\ISS\ISS\bin\System.Web.Optimization.xml
+D:\lectures\iss\ISS\ISS\bin\System.Web.Razor.xml
+D:\lectures\iss\ISS\ISS\bin\System.Web.WebPages.xml
+D:\lectures\iss\ISS\ISS\bin\System.Web.WebPages.Deployment.xml
+D:\lectures\iss\ISS\ISS\bin\System.Web.WebPages.Razor.xml
+D:\lectures\iss\ISS\ISS\bin\Antlr3.Runtime.pdb
+D:\lectures\iss\ISS\ISS\bin\Newtonsoft.Json.xml
+D:\lectures\iss\ISS\ISS\bin\EntityFramework.xml
+D:\lectures\iss\ISS\ISS\bin\EntityFramework.SqlServer.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.Google.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.ApplicationInsights.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AI.DependencyCollector.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AI.WindowsServer.xml
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AI.Web.xml
+D:\lectures\iss\ISS\ISS\obj\Debug\ISS.csproj.CoreCompileInputs.cache
+D:\lectures\iss\ISS\ISS\obj\Debug\ISS.dll
+D:\lectures\iss\ISS\ISS\obj\Debug\ISS.pdb
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\ApplicationInsights.config
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\ISS.dll.config
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\ISS.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\ISS.pdb
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Owin.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\WebGrease.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Desktop\New folder\ISS\ISS\obj\Debug\ISS.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\New folder\ISS\ISS\obj\Debug\ISS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\New folder\ISS\ISS\obj\Debug\ISS.dll
+C:\Users\Asus\Desktop\New folder\ISS\ISS\obj\Debug\ISS.pdb
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\lectures\iss\ISS\ISS\bin\System.Diagnostics.DiagnosticSource.dll
+D:\lectures\iss\ISS\ISS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\lectures\iss\ISS\ISS\bin\System.Diagnostics.DiagnosticSource.xml
+D:\lectures\iss\ISS\ISS\bin\roslyn\System.Collections.Immutable.dll
+D:\lectures\iss\ISS\ISS\obj\Debug\ISS.csprojResolveAssemblyReference.cache
+D:\lectures\iss\ISS\ISS\obj\Debug\ISS.csproj.GenerateResource.Cache
+D:\lectures\iss\ISS\ISS\bin\ar\ISS.resources.dll
+D:\lectures\iss\ISS\ISS\obj\Debug\ar\ISS.resources.dll
+D:\lectures\iss\ISS\ISS\obj\Debug\ISS.Language.dil.ar.resources
+D:\lectures\iss\ISS\ISS\obj\Debug\ISS.Language.dil.resources
+D:\lectures\iss\ISS\ISS\bin\en\ISS.resources.dll
+D:\lectures\iss\ISS\ISS\obj\Debug\ISS.Language.dil.en.resources
+D:\lectures\iss\ISS\ISS\obj\Debug\en\ISS.resources.dll

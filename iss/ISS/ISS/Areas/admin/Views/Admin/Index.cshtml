@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewBag.Title = "Admin Panel";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2> @ViewBag.Title </h2>
+    <ul class="list-unstyled">
+        <li>@Html.ActionLink("Admin", "Index", "Admin" , new { area="admin"},null)</li>
+    </ul>

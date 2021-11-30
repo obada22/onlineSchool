@@ -1,0 +1,57 @@
+﻿@model ISS.Models.Data.answare
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>answare</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.question.quizID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.question.quizID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.iscorrect)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.iscorrect)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.text)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.text)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.answare_number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.answare_number)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

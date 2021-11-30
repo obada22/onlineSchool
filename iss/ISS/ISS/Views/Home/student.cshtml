@@ -1,0 +1,81 @@
+﻿@{
+    ViewBag.Title = "Student";
+}
+
+
+<div class="container-fluid">
+    <div class="col-md-3 sidenav hidden-xs">
+        <div class="row content">
+            <div class="person" style="padding-top:20px;">
+                <img src="~/Content/img/canta.jpg" class="img-responsive" />
+                <div class="person-content">
+                    <h4>Lisa Brown</h4>
+                    <h5 class="role">The Mastermind</h5>
+                </div>
+            </div>
+            <ul class="nav nav-pills  nav-tabs nav-stacked">
+                <li class="active"><a data-toggle="tab" href="#Dashboard">Dashboard</a></li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        Duyurular
+                        <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a data-toggle="tab" href="#">Submenu 1-1</a></li>
+                        <li><a data-toggle="tab" href="#">Submenu 1-2</a></li>
+                        <li><a data-toggle="tab" href="#">Submenu 1-3</a></li>
+                    </ul>
+                </li>
+                <li><a data-toggle="tab" href="#DersProgrami">Ders Programi</a></li>
+                <li><a data-toggle="tab" href="#puanlarim">puanlarim</a></li>
+                <li><a data-toggle="tab" href="#mesajalrim">mesajalrim</a></li>
+            </ul>
+            <br>
+        </div>
+        <br>
+    </div>
+    <div class="col-md-9" >
+        <div class="btn-group" id="timelineGroup">
+            <button type="button" class="btn" onclick="">Tümü</button>
+            <button type="button" class="btn btn-primary" onclick="">Genel <span class="badge badge-white"></span></button>
+            <button type="button" class="btn btn-success" onclick="">Genel <span class="badge badge-white"></span></button>
+            <button type="button" class="btn btn-danger" onclick="">Sistem <span class="badge badge-white"></span></button>
+            <button type="button" class="btn btn-info" onclick="">Sınav <span class="badge badge-white"></span></button>
+            <button type="button" class="btn btn-warning" onclick="">Sanal Sınıf <span class="badge badge-white"></span></button>
+            <button type="button" class="btn btn-magenta" onclick="">Ödev <span class="badge badge-white"></span></button>
+        </div>
+        <br />
+        <div class="row col-md-12">
+            <div class="tab-content">
+                <div id="Dashboard" class="tab-pane fade in active">
+                        <div class="well">
+                            <p>Dashboard</p>
+                            <p>Text</p>
+                            <p>Text</p>
+                    </div>
+                </div>
+                <div id="DersProgrami" class="tab-pane fade">
+                        <div class="well">
+                            <p>DersProgrami</p>
+                            <p>Text</p>
+                            <p>Text</p>
+                    </div>
+                </div>
+                <div id="puanlarim" class="tab-pane fade">
+                        <div class="well">
+                            <p>puanlarim</p>
+                            <p>Text</p>
+                            <p>Text</p>
+                    </div>
+                </div>
+                <div id="mesajalrim" class="tab-pane fade">
+                        <div class="well">
+                            <p>mesajalrim</p>
+                            <p>Text</p>
+                            <p>Text</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

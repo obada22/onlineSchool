@@ -1,0 +1,48 @@
+﻿@model ISS.Models.Data.news
+
+@{
+    ViewBag.Title = "newsDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="ccenter"> @Html.DisplayFor(model => model.title)</h2>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <dl class="">
+            <dd>
+                @Html.DisplayFor(model => model.describe)
+            </dd>
+            <dt>
+                @if (Model.link != null)
+                {
+                    <a href=" @Html.DisplayFor(model => model.link)"> @Html.DisplayFor(model => model.link)</a>
+                }
+                @if (Model.link1 != null)
+                {
+
+                    <a href=" @Html.DisplayFor(model => model.link1)"> @Html.DisplayFor(model => model.link1) </a>
+
+                }
+                @if (Model.link2 != null)
+                {
+                    <a href=" @Html.DisplayFor(model => model.link1)">  @Html.DisplayFor(model => model.link2)</a>
+                }
+            </dt>
+        </dl>
+    </div>
+    <div class="col-md-6 ccenter">
+        @if (Model.picPath == null|| Model.picPath == "")
+        {
+            <img src="~/Content/img/noimage.jpg" class="" alt="Image">
+        }
+        else
+        {
+            <img src="@Model.picPath" class="" alt="Image">
+        }
+    </div>
+</div>
+<p>
+    @Html.ActionLink("AnaSayfaya dön", "Index")
+</p>

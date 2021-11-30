@@ -1,0 +1,51 @@
+﻿@model ISS.Models.Data.answare
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>answare</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.question.quizID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.question.quizID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.iscorrect)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.iscorrect)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.text)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.text)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.answare_number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.answare_number)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.answareID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

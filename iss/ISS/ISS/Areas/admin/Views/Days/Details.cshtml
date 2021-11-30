@@ -1,0 +1,27 @@
+﻿@model ISS.Models.Data.Day
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Day</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.day1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.day1)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.day_ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,34 @@
+﻿@model IEnumerable<ISS.Models.Data.Day>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.day1)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.day1)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.day_ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.day_ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.day_ID })
+        </td>
+    </tr>
+}
+
+</table>
